@@ -110,5 +110,5 @@ Changes to JJSchema
 Adds `@XProperties` annotation to provide dynamic JSON schema properties in PROPERTIES format (inline and from file).
 Also adds support for JACKSON annotations (partly implemented by the original JJSchema today).
 
-Changed files:
+Added files (only two changes to the original source code):
 https://github.com/reinert/JJSchema/compare/master...WhileTrueEndWhile:master#files_bucket
