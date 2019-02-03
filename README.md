@@ -104,7 +104,11 @@ The output:
 }
 ```
 
-Thanks to
-----------------
+Changes to JJSchema
+-------------------
 
-[![IntelliJ](https://lh6.googleusercontent.com/--QIIJfKrjSk/UJJ6X-UohII/AAAAAAAAAVM/cOW7EjnH778/s800/banner_IDEA.png)](http://www.jetbrains.com/idea/index.html)
+Adds `@XProperties` annotation to provide dynamic JSON schema properties in PROPERTIES format (inline and from file).
+Also adds support for JACKSON annotations (partly implemented by the original JJSchema today).
+
+Changed files:
+https://github.com/reinert/JJSchema/compare/master...WhileTrueEndWhile:master#files_bucket
